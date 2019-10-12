@@ -1,4 +1,5 @@
 # MATLAB
-一些基于matlab的实验
-分支为计算机视觉和数字图像的课程设计
-分别为车牌识别和目标跟踪
+
+experience分支为一些基于matlab的实验
+License_plate_recognition分支为计算智能课设：车牌识别
+Target_tracking分支数字图像的课程设计：目标跟踪
